@@ -21,7 +21,7 @@ public class TextBook extends Buku implements Diskon {
     // implementasi perhitungan harga textbook
     @Override
     public double harga() {
-        return this.halaman * 150;
+        return this.halaman * 150.0;
     }
 
     // implementasi view data textbook
