@@ -31,4 +31,5 @@ Ide Penyelesaian:
 
 ### Interfaces
 * Diskon
+
 Interface ini diimplementasikan oleh class TextBook dan Majalah
