@@ -1,5 +1,7 @@
 # PBO Java Example
- Contoh sebuah project Java yang menerapkan konsep PBO: constructor, inheritance, abstraction, polymorfisme, interface
+## Dibuat oleh: Rosihan Ari Yuana
+
+Contoh sebuah project Java yang menerapkan konsep PBO: constructor, inheritance, abstraction, polymorfisme, interface
 
 ## Studi Kasus
 
